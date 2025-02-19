@@ -1,1 +1,1 @@
-# SWP-graf
+# SWP-Graf
